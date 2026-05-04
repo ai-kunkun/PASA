@@ -23,8 +23,6 @@
 
 This repository provides the official implementation of **PASA**, a principled embedding-space watermarking method for LLM-generated text under semantic-invariant attacks.
 
-PASA performs watermarking at the semantic-cluster level. It maps tokens into semantic clusters, constructs an auxiliary distribution with a shared secret key, and detects watermarks by replaying the same cluster-level sampling process with an auxiliary language model.
-
 ---
 
 ## Files
