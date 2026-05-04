@@ -51,33 +51,7 @@ pip install torch transformers accelerate datasets pandas tqdm nltk tokenizers
 python -c "import nltk; nltk.download('punkt')"
 ```
 
----
 
-## Data and Mapping Preparation
-
-PASA requires a token-to-cluster mapping file:
-
-```csv
-token_id,best_cluster_idx
-0,1
-1,3
-2,0
-3,2
-```
-
-The column `token_id` is the tokenizer vocabulary index, and `best_cluster_idx` is the semantic cluster ID.
-
-Please make sure:
-
-```text
-0 <= best_cluster_idx < num_semantic_keys
-```
-
-For example, if the mapping contains cluster IDs `0, 1, 2, 3`, use:
-
-```bash
---num_semantic_keys 4
-```
 
 ---
 
