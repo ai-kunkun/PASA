@@ -41,7 +41,7 @@ PASA/
 ## Installation
 
 ```bash
-git clone https://github.com/your-name/PASA.git
+git clone https://github.com/ai-kunkun/PASA.git
 cd PASA
 
 conda create -n pasa python=3.10 -y
@@ -101,7 +101,6 @@ Please replace the following paths:
 | `/path/to/token_to_cluster_mapping.csv` | Token-to-cluster mapping file |
 | `./outputs/results.csv` | Output CSV file |
 
-> Note: `--auxilary_model` is kept for compatibility with the released code.
 
 ---
 
