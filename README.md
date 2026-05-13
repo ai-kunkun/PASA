@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <b>Zhenxin Ai, Haiyun He</b><br>
-  The Hong Kong University of Science and Technology (Guangzhou)
+  <b>Zhenxin Ai, Haiyun He<sup>*</sup></b><br>
+  The Hong Kong University of Science and Technology (Guangzhou)<br>
+  <sup>*</sup>Corresponding author
 </p>
 
 <p align="center">
