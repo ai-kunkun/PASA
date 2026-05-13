@@ -180,10 +180,11 @@ Main columns:
 If you find this repository useful, please cite:
 
 ```bibtex
-@inproceedings{ai2026pasa,
-  title     = {PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks},
-  author    = {Ai, Zhenxin and He, Haiyun},
-  booktitle = {Proceedings of the International Conference on Machine Learning},
-  year      = {2026}
+@misc{ai2026pasa,
+  title        = {PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks},
+  author       = {Ai, Zhenxin and He, Haiyun},
+  year         = {2026},
+  eprint       = {2605.10977},
+  archivePrefix = {arXiv},
 }
 ```
