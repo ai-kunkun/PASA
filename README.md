@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://your-paper-link.com"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
-  <a href="https://your-project-page.com"><img src="https://img.shields.io/badge/Project-Page-blue.svg"></a>
+  <a href="https://arxiv.org/abs/2605.10977"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
+  <a href="https://ai-kunkun.github.io/PASA_page/"><img src="https://img.shields.io/badge/Project-Page-blue.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Conference-ICML%202026-green.svg"></a>
 </p>
 
