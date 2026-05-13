@@ -11,9 +11,18 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2605.10977"><img src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
-  <a href="https://ai-kunkun.github.io/PASA_page/"><img src="https://img.shields.io/badge/Project-Page-blue.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Conference-ICML%202026-green.svg"></a>
+  <a href="https://arxiv.org/abs/2605.10977" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper">
+  </a>
+  <a href="https://ai-kunkun.github.io/PASA_page/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Page-blue.svg" alt="Project Page">
+  </a>
+  <a href="https://huggingface.co/papers/2605.10977" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Paper-ffcc4d.svg?logo=huggingface&logoColor=black" alt="Hugging Face Paper">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Conference-ICML%202026-green.svg" alt="ICML 2026">
+  </a>
 </p>
 
 <p align="center">
