@@ -20,7 +20,7 @@
   <a href="https://huggingface.co/papers/2605.10977" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-Paper-ffcc4d.svg?logo=huggingface&logoColor=black" alt="Hugging Face Paper">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://proceedings.mlr.press/v306/ai26b.html" target="_blank">
     <img src="https://img.shields.io/badge/Conference-ICML%202026-green.svg" alt="ICML 2026">
   </a>
 </p>
@@ -190,11 +190,15 @@ Main columns:
 If you find this repository useful, please cite:
 
 ```bibtex
-@misc{ai2026pasa,
-  title        = {PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks},
-  author       = {Ai, Zhenxin and He, Haiyun},
-  year         = {2026},
-  eprint       = {2605.10977},
-  archivePrefix = {arXiv},
+@inproceedings{pmlr-ai-pasa,
+  title     = {{PASA}: A Principled Embedding-Space Watermarking Approach for {LLM}-Generated Text under Semantic-Invariant Attacks},
+  author    = {Ai, Zhenxin and He, Haiyun},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  year      = {2026},
+  volume    = {306},
+  pages     = {1271--1290},
+  series    = {Proceedings of Machine Learning Research},
+  publisher = {PMLR},
+  url       = {https://proceedings.mlr.press/v306/ai26b.html}
 }
 ```
